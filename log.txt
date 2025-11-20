@@ -22,3 +22,11 @@ e7e54d7 Task 2.1.4
 eec4c9f Task 1.2
 4cb62da Task 1.1
 4950ea3 Initial commit
+6e90e28 (HEAD -> main, origin/main, origin/HEAD) Task 2.4
+ca176d0 Task 2.3
+5bcb021 Task 2.2
+5da553b Task 2.1
+e7e54d7 Task 2.1.4
+eec4c9f Task 1.2
+4cb62da Task 1.1
+4950ea3 Initial commit
